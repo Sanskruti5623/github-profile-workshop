@@ -8,20 +8,20 @@ Demonstration for students on how to create a GitHub profile.
 *Then in your own fork:* Check off the tasks below as you complete them:
 - [x] Go to [github.com](https://github.com) > click your profile picture (top right corner) > Your Profile
     * In the left sidebar tap "Edit profile" and set:
-      - [x] Profile picture. Use a real professional picture, a cartoon that represents you, or use some AI image tool to generate a cartoon version from a real photo of you.
+      - [] Profile picture. Use a real professional picture, a cartoon that represents you, or use some AI image tool to generate a cartoon version from a real photo of you.
          * Have no photo of you on the computer/web? Take a new photo or an existing one and upload it to [tmpfiles](https://tmpfiles.org/). The open upload URL on the computer.
          * Image tools:
             * Generate many different professional profile pictures from a real picture with [newprofilepic.com](https://newprofilepic.com/)
             * Cartoonize by [fotor](https://www.fotor.com/features/photo-to-cartoon/)
             * Cartoon by [picsart](https://picsart.com/photo-effects/photo-to-cartoon/)
-       - [x] About me
-       - [x] Other data like links to social profiles (LinkedIn, Twitter, ...)
-- [x] In the top right toolbar: click "+" > "New repository". Enter the following data:
+       - [] About me
+       - [] Other data like links to social profiles (LinkedIn, Twitter, ...)
+- [] In the top right toolbar: click "+" > "New repository". Enter the following data:
     * Repository name: **exactly** the same name as your GitHub username.
     * Initialize this repository with: check "Add a README file"
     * Leave all others to default and press "Create repository".
-- [x] Edit your profile `README.md` in your new repo `https://github.com/your_username/your_username`
-    - [x] Copy the template
+- [] Edit your profile `README.md` in your new repo `https://github.com/your_username/your_username`
+    - [] Copy the template
        * Click the :pencil2: icon on the `README.md` below the file list to start editing the file right in your browser.
          * Remember to publish your edits from time to time by pressing the "Commit changes" button in the top right corner.
        * Start with the template below. Copy it to your `README.md`.
